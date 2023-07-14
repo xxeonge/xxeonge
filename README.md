@@ -1,5 +1,6 @@
 <div align=center>
-### Welcome to xxeonge's github 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23906BB0&title_bg=%23000000&icon=&icon_color=%23FEFAFA&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
+### Welcome to xxeonge's github 👋 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23906BB0&title_bg=%23000000&icon=&icon_color=%23FEFAFA&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ✔️ Master's Graduate Student, Blockchain Major
 
