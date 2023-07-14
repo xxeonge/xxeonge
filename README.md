@@ -1,15 +1,22 @@
 
-### Welcome to xxeonge's github 👋
-✔️ Master's Graduate Student, Blockchain Major
+###  xxeonge's github 🐣
+<br>
+✔️ Graduated from Department of Information Security (2019 ~ 2022)<br>
+✔️ Master's Graduate Student, Blockchain Major (2023 ~ ing)<br><br>
 
-<a href="https://github.com/xxeonge/xxeonge"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2397A4CE&title_bg=%23C8ACCE&icon=&icon_color=%23FEFAFA&title=Hits&edge_flat=true"/></a>
-
-
-
-
-
+<center> 
 💻Skills
 
+
+
+
+</center>
+
+<!--방문자 클릭 수 --!>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxxeonge%2Fxxeonge&count_bg=%2397A4CE&title_bg=%23C8ACCE&icon=&icon_color=%23FEFAFA&title=Hits&edge_flat=true"/></a>
+
+
+<!--스택 이모지 --!>
 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
