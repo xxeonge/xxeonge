@@ -1,10 +1,10 @@
-<div align=center>
-**Welcome to xxeonge's github 👋 **
-</div>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23906BB0&title_bg=%23000000&icon=&icon_color=%23FEFAFA&title=Hits&edge_flat=true"/></a>
-
+### Welcome to xxeonge's github 👋
 ✔️ Master's Graduate Student, Blockchain Major
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2397A4CE&title_bg=%23C8ACCE&icon=&icon_color=%23FEFAFA&title=Hits&edge_flat=true"/></a>
+
+
 
 
 
