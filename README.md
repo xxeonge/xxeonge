@@ -1,7 +1,6 @@
-<!--방문자 클릭 수 --!>
-<a href="https://github.com/xxeonge/xxeonge"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxxeonge%2Fxxeonge&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false"/></a></h5>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxxeonge%2Fxxeonge&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://github.com/xxeonge/xxeonge)
 
-<div align=center><h1> Hello, I'm Seoyoung 🐣 </h1>
+<div align=center><h1> &nbsp;&nbsp;Hello, I'm Seoyoung 🐣 </h1>
 
 
 <h5>
@@ -9,14 +8,15 @@
 ✔️ Master's Graduate Student, Blockchain Major (2023 ~ ing)<br><br>
 </h5>
 
-<h3> 💻 &nbsp;Skills </h3> <h5> + Studying language</h5>
+<h3> 💻&nbsp;Skills </h3> <h5> + Studying language</h5>
 <br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white"> 
 
-
-<h3> 📞 &nbsp; Contact </h3>
+<br><br><br>
+<h3> 🗣️&nbsp;Contact </h3>
 </br>
 <a href="https://www.instagram.com/xxeonge_">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
@@ -26,11 +26,16 @@
 <img src="https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="mailto:xeoyounglee@gmail.com">
 <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<br><br>
 
 </div>
 
 
 
+<!-- ![xxeonge's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxeonge&show_icons=true&bg_color=00000000) -->
+***
+<!-- 
+![xxeonge's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxeonge&show_icons=true&bg_color=00000000) -->
 
 
 
